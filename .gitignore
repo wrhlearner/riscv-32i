@@ -1,5 +1,6 @@
 ##################### verilog files #####################
 wave/**
+doc/verilog/**
 
 # Prerequisites
 *.d
